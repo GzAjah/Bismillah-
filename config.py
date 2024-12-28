@@ -1,5 +1,5 @@
 
 # Masukkan kredensial Instagram dan OpenAI API Key
-USERNAME = "your_instagram_username"
-PASSWORD = "your_instagram_password"
-OPENAI_API_KEY = "your_openai_api_key"
+USERNAME = "dazitzy"
+PASSWORD = "GzAlfz252"
+OPENAI_API_KEY = "AIzaSyBjHl1VaEteyGTMgrZSXM85_2PFutrsFU8"
